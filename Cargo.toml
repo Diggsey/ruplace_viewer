@@ -1,0 +1,10 @@
+[package]
+name = "ruplace"
+version = "0.1.0"
+authors = ["Diggory Blake <diggsey@googlemail.com>"]
+
+[dependencies]
+gfx_app = { git = "https://github.com/gfx-rs/gfx" }
+gfx = { git = "https://github.com/gfx-rs/gfx" }
+winit = "0.5.11"
+reqwest = "0.5.0"
